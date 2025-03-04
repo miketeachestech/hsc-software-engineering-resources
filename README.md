@@ -1,0 +1,2 @@
+# Collection of resources for HSC Software Engineering
+### Please note: I am not affiliated with NESA, nor am I a secondary teacher. Everything provided here is done as a best effort based on publicly available information about the HSC Software Engineering curriculum. Please use it at your own discretion. 
