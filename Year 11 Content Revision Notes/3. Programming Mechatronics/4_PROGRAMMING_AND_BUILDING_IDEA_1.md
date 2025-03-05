@@ -1,4 +1,4 @@
-# Programming and Building Practice Idea 1 - HSC Software Engineering Revision Notes
+# Programming and Building Practice Idea 1 (Easier) - HSC Software Engineering Revision Notes
 
 The following content points outline key areas for designing, developing, and testing a **mechatronic system**:
 
@@ -14,158 +14,75 @@ The following content points outline key areas for designing, developing, and te
 
 ---
 
-## **Suggested Project: Obstacle-Avoiding Robot**
+# **Suggested Project: MicroBit & Maqueen Obstacle Avoiding Robot**
 
-### **Overview**
-This project involves building a **small autonomous robot** that can move around and avoid obstacles using an **ultrasonic sensor**. The robot will be powered by a **microcontroller (Arduino or Raspberry Pi)** and will integrate motors, sensors, and control algorithms. 
+## **Introduction**
+This project will involve building an **obstacle-avoiding robot** using a **MicroBit microcontroller** and a **Maqueen vehicle base**. This is a great introduction to robotics, coding, and engineering for high school students with no prior experience.
 
-### **How It Satisfies the Content Points:**
-✅ **Software Control** → Uses a microcontroller to process sensor data and control movement.  
-✅ **Mechanical Engineering** → Includes a chassis with wheels and motors for movement.  
-✅ **Electronics & Mathematics** → Uses sensors to measure distances and apply logic for navigation.  
-✅ **Closed-Loop Control System** → Uses sensor feedback to adjust movement and avoid obstacles.  
-✅ **User Interface (UI)** → A simple remote control or debugging interface via serial communication.  
-✅ **Testing & Unit Tests** → Ensures sensors and motors work consistently.  
+By the end of this project, you will:
+- ✅ Learn how to program the **MicroBit** to control a robot.  
+- ✅ Understand how sensors help robots interact with their environment.  
+- ✅ Use simple **block-based programming** (MakeCode) to write your first robot program.  
+- ✅ Keep a **logbook** to track your progress, errors, and improvements.  
 
 ---
 
-## **Components Needed (Available at Jaycar or Online)**
-| **Component** | **Purpose** | **Estimated Cost** |
-|--------------|------------|-----------------|
-| **Arduino Uno / Raspberry Pi** | Main controller | $30 - $80 |
-| **Ultrasonic Sensor (HC-SR04)** | Detects obstacles | $10 - $15 |
-| **Motor Driver Module (L298N)** | Controls motor speed & direction | $10 - $20 |
-| **DC Motors + Wheels** | Provides movement | $15 - $30 |
-| **Chassis (Acrylic/3D Printed)** | Holds components together | $10 - $25 |
-| **Rechargeable Battery Pack** | Powers the system | $15 - $25 |
-| **LEDs / Buzzer** | Status indicators | $5 - $10 |
-
-Estimated total: **$100 - $180** (Prices vary based on store and alternative components.)
+## **What You Need**
+| **Component** | **Purpose** |
+|--------------|------------|
+| **BBC MicroBit** | The brain of the robot |
+| **Maqueen Robot Base** | Provides motors, wheels, and chassis |
+| **Ultrasonic Sensor** | Detects obstacles ahead |
+| **Battery Pack** | Powers the MicroBit and Maqueen |
 
 ---
 
-## **System Design & Implementation**
-
-### **1. System Workflow**
-```
-Ultrasonic Sensor → Microcontroller → Motor Controller → Adjust Robot Movement
-```
-
-### **2. Software & Algorithm Development**
-#### **Pseudocode: Obstacle Avoidance Algorithm**
-```
-BEGIN
-    WHILE robot is ON
-        READ ultrasonic_sensor_distance
-        IF distance < 15cm THEN
-            STOP motors
-            TURN left or right randomly
-        ELSE
-            MOVE forward
-END
-```
-
-#### **Python Code: Basic Obstacle Avoidance Algorithm (Raspberry Pi)**
-```python
-import RPi.GPIO as GPIO
-import time
-import random
-
-TRIG = 23
-ECHO = 24
-MOTOR_LEFT = 17
-MOTOR_RIGHT = 27
-
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(TRIG, GPIO.OUT)
-GPIO.setup(ECHO, GPIO.IN)
-GPIO.setup(MOTOR_LEFT, GPIO.OUT)
-GPIO.setup(MOTOR_RIGHT, GPIO.OUT)
-
-def get_distance():
-    GPIO.output(TRIG, True)
-    time.sleep(0.00001)
-    GPIO.output(TRIG, False)
-    
-    while GPIO.input(ECHO) == 0:
-        start_time = time.time()
-    while GPIO.input(ECHO) == 1:
-        end_time = time.time()
-    
-    duration = end_time - start_time
-    distance = duration * 17150  # Convert to cm
-    return round(distance, 2)
-
-def avoid_obstacle():
-    distance = get_distance()
-    if distance < 15:
-        print("Obstacle detected! Changing direction...")
-        GPIO.output(MOTOR_LEFT, False)
-        GPIO.output(MOTOR_RIGHT, False)
-        time.sleep(1)
-        turn_direction = random.choice([MOTOR_LEFT, MOTOR_RIGHT])
-        GPIO.output(turn_direction, True)
-        time.sleep(1)
-    else:
-        GPIO.output(MOTOR_LEFT, True)
-        GPIO.output(MOTOR_RIGHT, True)
-
-while True:
-    avoid_obstacle()
-    time.sleep(0.5)
-```
-- **Uses an ultrasonic sensor** to detect obstacles.
-- **Randomly turns left or right** when an obstacle is detected.
-- **Continuously checks distance and updates movement.**
+## **How the Robot Works**
+1. The **ultrasonic sensor** measures the distance to objects in front of the robot.
+2. The **MicroBit** reads this distance and decides whether the robot should move forward or turn.
+3. The robot will **move forward** until it detects an obstacle **closer than 15cm**.
+4. If an obstacle is detected, it **stops and turns** to find a clear path.
 
 ---
 
-### **3. Prototyping & Simulation**
-- **Circuit Simulation:** Use Tinkercad or Proteus to simulate motor and sensor functions before assembling hardware.
-- **3D Modeling:** Use TinkerCAD or Fusion 360 to design the robot chassis.
+## **Step 1: Setting Up the Hardware**
+1. Attach the **MicroBit** to the Maqueen robot base.
+2. Connect the **ultrasonic sensor** to the Maqueen.
+3. Insert the **battery pack** and turn on the power.
 
 ---
 
-### **4. UI Development for Remote Control & Debugging**
-A simple **serial-based UI** allows debugging via a laptop or smartphone.
+## **Step 2: Writing the Code (MakeCode)**
+Use **MakeCode**, a block-based coding platform, to program the robot.
 
-#### **Example: Sending Commands via Serial Monitor (Arduino)**
-```cpp
-void setup() {
-    Serial.begin(9600);
-    pinMode(LED_BUILTIN, OUTPUT);
-}
-void loop() {
-    if (Serial.available()) {
-        char command = Serial.read();
-        if (command == 'F') {
-            Serial.println("Moving Forward");
-        } else if (command == 'B') {
-            Serial.println("Moving Backward");
-        }
-    }
-}
-```
-- **Allows remote control of the robot using simple text commands.**
+### **Basic Obstacle Avoidance Algorithm (MakeCode Blocks)**
+1. Go to [MakeCode MicroBit](https://makecode.microbit.org/).
+2. Create a new project.
+3. Drag and drop the following blocks:
+   - Start by continuously checking the **ultrasonic sensor**.
+   - If the sensor detects an obstacle **closer than 15cm**, stop and turn.
+   - If no obstacle is detected, move forward.
 
 ---
 
-### **5. Unit Testing & Validation**
-Unit tests check if **motors, sensors, and logic** function correctly.
+## **Step 3: Keeping a Logbook**
+Keeping track of your progress is important! Here’s what to include:
+- ✅ **Daily Entries** – What did you work on today? What worked well? What didn’t?  
+- ✅ **Error Tracking** – Write down any issues and how you fixed them.  
+- ✅ **Ideas & Improvements** – What changes would you make next time?  
 
-#### **Example: Unit Test for Sensor Accuracy (Python)**
-```python
-import unittest
-
-def get_mock_distance():
-    return 10  # Simulated 10cm obstacle distance
-
-class TestSensor(unittest.TestCase):
-    def test_distance(self):
-        self.assertLess(get_mock_distance(), 15)  # Expecting obstacle detection
-
-if __name__ == '__main__':
-    unittest.main()
+Example Log Entry:
 ```
-- **Verifies sensor readings match expected values.**
-- **Ensures the robot correctly detects obstacles.**
+Date: March 6, 2025
+What I did: Wrote code to make the robot move forward.
+Problem: The robot wasn’t moving at all.
+Solution: I forgot to upload the code! Once I uploaded it, it worked.
+Next Steps: Add turning when an obstacle is detected.
+```
+
+---
+
+## **Step 4: Testing & Improving Your Robot**
+- 🔍 **Test your robot** – Does it avoid obstacles? Does it turn correctly?
+- 🔧 **Debug your code** – If something doesn’t work, check your logbook and experiment with different solutions.
+- 🎯 **Enhance your robot** – Can you add sound or lights when it detects an obstacle? Perhaps you could also make the robot follow a **line or track**?

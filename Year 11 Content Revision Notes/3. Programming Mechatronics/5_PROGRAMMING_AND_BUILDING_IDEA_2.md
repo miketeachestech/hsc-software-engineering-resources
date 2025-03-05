@@ -1,4 +1,4 @@
-# Programming and Building Practice Idea 2 - HSC Software Engineering Revision Notes
+# Programming and Building Practice Idea 2 (Harder) - HSC Software Engineering Revision Notes
 
 The following content points outline key areas for designing, developing, and testing a **mechatronic system**:
 
