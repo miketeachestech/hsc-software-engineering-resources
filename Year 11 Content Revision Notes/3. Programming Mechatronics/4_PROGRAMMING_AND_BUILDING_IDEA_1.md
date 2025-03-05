@@ -14,9 +14,9 @@ The following content points outline key areas for designing, developing, and te
 
 ---
 
-# **Suggested Project: MicroBit & Maqueen Obstacle Avoiding Robot**
+## **Suggested Project: MicroBit & Maqueen Obstacle Avoiding Robot**
 
-## **Introduction**
+### **Introduction**
 This project will involve building an **obstacle-avoiding robot** using a **MicroBit microcontroller** and a **Maqueen vehicle base**. This is a great introduction to robotics, coding, and engineering for high school students with no prior experience.
 
 By the end of this project, you will:
