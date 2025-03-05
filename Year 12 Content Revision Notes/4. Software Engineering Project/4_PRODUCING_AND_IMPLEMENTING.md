@@ -72,22 +72,12 @@ END BubbleSort
 ---
 
 ## 4. Allocating Resources for Software Development
-Proper **resource allocation** ensures that a project runs smoothly without delays or inefficiencies.
+Proper **resource allocation** ensures that a project runs smoothly without delays or inefficiencies. A Gantt chart helps to visualize this.
 
 ### **Key Resource Categories**
 - **Human Resources:** Developers, testers, project managers.
 - **Technology & Infrastructure:** Servers, cloud storage, development tools.
 - **Time & Budget:** Estimating costs and deadlines.
-
-### **Example Project Timeline (Gantt Chart Format)**
-```
-| Task            | Start Date | End Date  | Status    |
-|----------------|-----------|-----------|-----------|
-| Requirements   | Day 1     | Day 5     | Completed |
-| Development   | Day 6     | Day 20    | In Progress |
-| Testing       | Day 21    | Day 25    | Not Started |
-| Deployment    | Day 26    | Day 30    | Not Started |
-```
 
 ---
 

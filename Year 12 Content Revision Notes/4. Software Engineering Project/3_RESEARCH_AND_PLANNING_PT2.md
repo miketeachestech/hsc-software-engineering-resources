@@ -6,16 +6,16 @@ Project management ensures that **software projects are completed on time, withi
 ### **Scheduling and Tracking Using a Software Tool (Gantt Charts)**
 - **Gantt charts** visually represent project timelines and dependencies.
 - Help teams track **task progress, deadlines, and milestones**.
-- *Example:* A Gantt chart for a web development project may include tasks like **design, coding, testing, and deployment**.
+- *Example:* A Gantt chart for a web development project may include tasks like **requirement gathering, coding, testing, and deployment**.
 
 #### **Example Gantt Chart Structure:**
 ```
-| Task           | Start Date | End Date  | Status    |
-|---------------|-----------|-----------|-----------|
-| Requirements  | Day 1     | Day 5     | Completed |
-| Design       | Day 6     | Day 10    | In Progress |
-| Development  | Day 11    | Day 25    | Not Started |
-| Testing      | Day 26    | Day 30    | Not Started |
+| Task            | Start Date | End Date  | Status      |
+|-----------------|------------|-----------|-------------|
+| Requirements    | Day 1      | Day 5     | Completed   |
+| Development     | Day 6      | Day 20    | In Progress |
+| Testing         | Day 21     | Day 25    | Not Started |
+| Deployment      | Day 26     | Day 30    | Not Started |
 ```
 
 ### **Using Collaboration Tools**

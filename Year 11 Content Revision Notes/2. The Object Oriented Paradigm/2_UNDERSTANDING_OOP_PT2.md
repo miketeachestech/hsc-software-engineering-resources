@@ -57,10 +57,10 @@ print(my_bank.withdraw_money(200))  # Output: Withdrawal successful! Remaining b
 
 ## 2. Assessing the Effectiveness of OOP Code Implementing an Algorithm
 Effective OOP code should be:
-✅ **Correct** – Produces expected results.
-✅ **Efficient** – Uses minimal resources (CPU, memory).
-✅ **Readable** – Easy to understand and maintain.
-✅ **Scalable** – Can handle more features in the future.
+- ✅ **Correct** – Produces expected results.
+- ✅ **Efficient** – Uses minimal resources (CPU, memory).
+- ✅ **Readable** – Easy to understand and maintain.
+- ✅ **Scalable** – Can handle more features in the future.
 
 #### **Example: Optimizing a Search Algorithm Using OOP**
 ```python

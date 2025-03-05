@@ -197,7 +197,7 @@ Check out NESA's "Terms and Examples" document (see the NESA Resources folder) f
 ---
 
 ## **Summary**
-✅ **OOP organizes code into reusable classes and objects**.
-✅ **Encapsulation, inheritance, and polymorphism improve code efficiency**.
-✅ **Procedural programming is simpler but less scalable for large projects**.
-✅ **OOP is widely used in modern software development for building large, maintainable applications**.
+- ✅ **OOP organizes code into reusable classes and objects**.
+- ✅ **Encapsulation, inheritance, and polymorphism improve code efficiency**.
+- ✅ **Procedural programming is simpler but less scalable for large projects**.
+- ✅ **OOP is widely used in modern software development for building large, maintainable applications**.

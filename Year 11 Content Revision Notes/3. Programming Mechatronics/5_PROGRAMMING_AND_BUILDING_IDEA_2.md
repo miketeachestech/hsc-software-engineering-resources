@@ -131,9 +131,9 @@ if __name__ == '__main__':
 
 ### **5. Unit Testing & Validation**
 To ensure **accuracy and repeatability**, write unit tests for:
-✅ **Sensor Readings** – Test if the ultrasonic sensor detects a pet accurately.  
-✅ **Motor Functionality** – Verify that the servo motor dispenses food correctly.  
-✅ **Weight Accuracy** – Check if the load cell correctly measures portion size.  
+- ✅ **Sensor Readings** – Test if the ultrasonic sensor detects a pet accurately.  
+- ✅ **Motor Functionality** – Verify that the servo motor dispenses food correctly.  
+- ✅ **Weight Accuracy** – Check if the load cell correctly measures portion size.  
 
 #### **Example: Unit Test for Weight Sensor (Python)**
 ```python

@@ -113,12 +113,12 @@ Modern software development relies on **collaboration tools** to help teams writ
 - **Live Collaboration:** Some platforms (e.g., Replit) allow coding together in real-time.
 
 ### **Advantages of Using Code Collaboration Tools**
-✅ **Tracks Changes:** Allows programmers to revert to previous versions.
-✅ **Enables Teamwork:** Multiple developers can work on the same project.
-✅ **Supports Remote Work:** Teams can collaborate from different locations.
-✅ **Improves Code Quality:** Peer reviews help catch errors before deployment.
+- ✅ **Tracks Changes:** Allows programmers to revert to previous versions.
+- ✅ **Enables Teamwork:** Multiple developers can work on the same project.
+- ✅ **Supports Remote Work:** Teams can collaborate from different locations.
+- ✅ **Improves Code Quality:** Peer reviews help catch errors before deployment.
 
 ### **Challenges of Code Collaboration**
-⚠ **Merge Conflicts:** When multiple people edit the same file.
-⚠ **Learning Curve:** Some tools (like Git) can be difficult for beginners.
-⚠ **Internet Dependency:** Requires an internet connection for cloud collaboration.
+- ⚠ **Merge Conflicts:** When multiple people edit the same file.
+- ⚠ **Learning Curve:** Some tools (like Git) can be difficult for beginners.
+- ⚠ **Internet Dependency:** Requires an internet connection for cloud collaboration.

@@ -94,6 +94,21 @@ A structured test plan ensures **thorough testing** of software components.
 - **Boundary Testing:** Tests **edge cases**.
   - Example: Ensuring **password fields reject inputs shorter than 8 characters**.
 
+### **Manual Testing**
+Manual testing involves human testers interacting with the software to identify bugs, usability issues, and inconsistencies that automated tests might miss.
+
+#### **Types of Manual Testing**
+- **Exploratory Testing** – Testers explore the software without predefined test cases.
+- **Ad-hoc Testing** – Unstructured testing without a formal plan.
+- **Usability Testing** – Evaluating the user-friendliness of the application.
+- **Regression Testing** – Manually rechecking fixed issues to ensure they don't reappear.
+
+#### **Example Manual Testing Checklist for a Web Application**
+- ✅ Verify all buttons and links work correctly.
+- ✅ Ensure the login system properly handles valid and invalid inputs.
+- ✅ Check for broken images or incorrect layouts.
+- ✅ Test responsiveness on different devices and browsers.
+
 ### **Comparing Actual Output with Expected Output**
 - If the actual output matches expectations, the test **passes**.
 - If there’s a mismatch, **debugging is required**.
