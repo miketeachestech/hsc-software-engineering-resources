@@ -22,6 +22,10 @@
 - Essential for collaborative coding projects.
 - Learn Git & GitHub for software development.
 
+### 6. [HSC Familiarisation Questions](https://fam.hsconline.nesa.nsw.edu.au/)
+- HSC style practice questions made by NESA.
+- Gives you experience with the web tools that you will likely be using in your final examinations.
+
 ## Focus Areas
 - **Programming:** Python, Flask
 - **Web Development:** HTML, CSS
