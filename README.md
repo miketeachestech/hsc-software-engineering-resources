@@ -1,5 +1,9 @@
-# Collection of resources for HSC Software Engineering
+# 🍀 Mike's SEN Resources, $\textcolor{Green}{\textsf{Yav's copy}}$ 🍀
 
-This repository contains revision notes and practice questions that I've made in-line with the content dot points found in the NESA curriculum document. I've also uploaded the NESA files related to this subject here for your convenience, but keep in mind that they might be out-of-date if you're looking at these years later (so it's better for you to go get them directly from the NESA website).
+> [!NOTE]
+> This is the main branch
 
-### Please note: I am not affiliated with NESA, nor am I a secondary teacher. Everything provided here is done as a best effort based on publicly available information about the HSC Software Engineering curriculum. Please use it at your own discretion. 
+I'm slowly completing the questions and revising for the HSC using these resources created by Mike! I've created a fork of the original repo, and I'll be making branches whenever necessesary. Take a look at [@miketeachestech](https://github.com/miketeachestech)'s profile for resources and more :D
+
+
+
