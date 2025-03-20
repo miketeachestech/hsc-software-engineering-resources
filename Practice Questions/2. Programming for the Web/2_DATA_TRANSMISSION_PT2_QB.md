@@ -43,9 +43,9 @@
 
 **7.** *(4 marks)* Discuss the impact of **big data on web architecture**, including the role of **data mining, metadata, and streaming service management**.  
 > Scale up computing power and storage resources to handle analysis of that data. For example, storing data in a SQL table, however due to the limitations of querying a database of that size, a more powerful alternative is required to handle that amount of data. This means people rely on more scalable and powerful database services.
-> Data mining: analysing customer habits to then recommend them products (analysing data to find patterns, trends, and relationships, to create insights)
-> Metadata: **content, origin, and structure**, in terms of big data, usually it's timestamp, filetypes, and location. For example uploading an image with a geolocation metadata, indicating the user is on a trip, allowing facebook to push more targeted advertising.
-> Steaming services: as streaming is resource intensive, which requires highly optimised content delivery networks (CDNs). CDNs geolocated at optimised locations caches popular content to improve loading times geographically. For example, Netflix caches more popular shows to Australians in their Australia CDN, reducing loads on central servers by scaling on demand and using load-balancers to steer clients to different server. 
+> - Data mining: analysing customer habits to then recommend them products (analysing data to find patterns, trends, and relationships, to create insights)
+> - Metadata: **content, origin, and structure**, in terms of big data, usually it's timestamp, filetypes, and location. For example uploading an image with a geolocation metadata, indicating the user is on a trip, allowing facebook to push more targeted advertising.
+> - Steaming services: as streaming is resource intensive, which requires highly optimised content delivery networks (CDNs). CDNs geolocated at optimised locations caches popular content to improve loading times geographically. For example, Netflix caches more popular shows to Australians in their Australia CDN, reducing loads on central servers by scaling on demand and using load-balancers to steer clients to different server. 
 
 **8.** *(4 marks)* Explain how **encryption algorithms** such as AES, RSA, and ECC enhance data security, and provide examples of their real-world applications.  
 
