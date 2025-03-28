@@ -3,21 +3,21 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)* What is the primary purpose of using **Gantt charts** in project management?  
-   - A) To track software bugs  
-   - B) To visually represent project timelines and task dependencies  
+   - A) To visually represent project timelines and task dependencies    
+   - B) To track software bugs
    - C) To write code for software applications  
    - D) To replace communication between team members  
 
 **2.** *(1 mark)* How can **version control systems** improve collaboration in software development?  
    - A) By automatically testing software without user input  
-   - B) By tracking changes, enabling teamwork, and preventing code conflicts  
-   - C) By limiting the number of developers working on a project  
+   - B) By limiting the number of developers working on a project  
+   - C) By tracking changes, enabling teamwork, and preventing code conflicts  
    - D) By removing old versions of the software permanently  
 
 **3.** *(1 mark)* What is the significance of **quality assurance (QA)** in software development?  
    - A) Ensuring the software is completed quickly, regardless of bugs  
-   - B) Verifying that the software is reliable, secure, and meets user expectations  
-   - C) Skipping testing phases to speed up project completion  
+   - B) Skipping testing phases to speed up project completion  
+   - C) Verifying that the software is reliable, secure, and meets user expectations  
    - D) Allowing users to fix issues themselves after release  
 
 ---

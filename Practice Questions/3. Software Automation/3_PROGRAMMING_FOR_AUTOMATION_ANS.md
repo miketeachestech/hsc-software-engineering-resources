@@ -3,15 +3,15 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) It enhances modularity, reusability, and maintainability of code**  
+- Correct Answer: **A) It enhances modularity, reusability, and maintainability of code**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) Polynomial regression fits curved data patterns, while linear regression fits a straight line**  
+- Correct Answer: **A) Polynomial regression fits curved data patterns, while linear regression fits a straight line**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  
-- Correct Answer: **B) It decides which neurons should be activated in a neural network**  
+- Correct Answer: **D) It decides which neurons should be activated in a neural network**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 ---

@@ -3,15 +3,15 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) To visually represent project timelines and task dependencies**  
+- Correct Answer: **A) To visually represent project timelines and task dependencies**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) By tracking changes, enabling teamwork, and preventing code conflicts**  
+- Correct Answer: **C) By tracking changes, enabling teamwork, and preventing code conflicts**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  
-- Correct Answer: **B) Verifying that the software is reliable, secure, and meets user expectations**  
+- Correct Answer: **C) Verifying that the software is reliable, secure, and meets user expectations**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 ---

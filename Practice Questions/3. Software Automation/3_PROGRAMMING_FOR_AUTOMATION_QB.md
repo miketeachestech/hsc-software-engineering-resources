@@ -3,22 +3,22 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)* What is the primary advantage of using **Object-Oriented Programming (OOP)** in designing ML regression models?  
-   - A) It improves performance by making the model faster  
-   - B) It enhances modularity, reusability, and maintainability of code  
+   - A) It enhances modularity, reusability, and maintainability of code  
+   - B) It improves performance by making the model faster  
    - C) It allows regression models to work without training data  
    - D) It replaces the need for machine learning algorithms  
 
 **2.** *(1 mark)* What is the key difference between **linear regression** and **polynomial regression**?  
-   - A) Linear regression is more accurate than polynomial regression  
-   - B) Polynomial regression fits curved data patterns, while linear regression fits a straight line  
+   - A) Polynomial regression fits curved data patterns, while linear regression fits a straight line  
+   - B) Linear regression is more accurate than polynomial regression  
    - C) Polynomial regression can only be used for classification tasks  
    - D) Linear regression does not require training data  
 
 **3.** *(1 mark)* What is the function of an **activation function** in a neural network?  
-   - A) It optimizes the loss function  
-   - B) It decides which neurons should be activated in a neural network  
+   - A) It reduces overfitting in machine learning models  
+   - B) It optimizes the loss function  
    - C) It stores data in hidden layers  
-   - D) It reduces overfitting in machine learning models  
+   - D) It decides which neurons should be activated in a neural network  
 
 ---
 

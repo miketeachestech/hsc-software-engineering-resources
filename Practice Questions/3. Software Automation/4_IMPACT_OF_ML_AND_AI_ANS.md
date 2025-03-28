@@ -3,15 +3,15 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) By using AI-powered robots to perform dangerous tasks**  
+- Correct Answer: **D) By using AI-powered robots to perform dangerous tasks**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) By providing AI-powered accessibility tools such as speech-to-text and prosthetics**  
+- Correct Answer: **D) By providing AI-powered accessibility tools such as speech-to-text and prosthetics**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  
-- Correct Answer: **B) Because biased data can lead to unfair or inaccurate outcomes**  
+- Correct Answer: **C) Because biased data can lead to unfair or inaccurate outcomes**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 ---

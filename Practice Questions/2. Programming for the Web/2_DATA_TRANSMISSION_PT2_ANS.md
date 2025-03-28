@@ -3,15 +3,15 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) Encrypting data between a client and a server**  
+- Correct Answer: **A) Encrypting data between a client and a server**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) It requires both public and private keys for encryption and decryption**  
+- Correct Answer: **C) It requires both public and private keys for encryption and decryption**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  
-- Correct Answer: **B) It verifies data integrity by generating a fixed-length output**  
+- Correct Answer: **C) It verifies data integrity by generating a fixed-length output**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 ---

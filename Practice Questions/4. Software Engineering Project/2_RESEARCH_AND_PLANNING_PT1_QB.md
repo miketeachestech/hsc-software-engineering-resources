@@ -4,21 +4,21 @@
 
 **1.** *(1 mark)* What is a key characteristic of the **Waterfall Model**?  
    - A) Development happens in iterative cycles  
-   - B) Each phase must be completed before moving to the next  
+   - B) It is best suited for projects with frequently changing requirements  
    - C) It allows continuous user feedback throughout development  
-   - D) It is best suited for projects with frequently changing requirements  
+   - D) Each phase must be completed before moving to the next  
 
 **2.** *(1 mark)* How does the **Agile model** differ from the Waterfall model?  
    - A) Agile follows a rigid, linear process  
-   - B) Agile delivers working software in increments rather than all at once  
+   - B) Agile is only used for small projects  
    - C) Agile does not require user feedback  
-   - D) Agile is only used for small projects  
+   - D) Agile delivers working software in increments rather than all at once  
 
 **3.** *(1 mark)* What is the primary purpose of the **WAgile** development approach?  
    - A) To completely replace Waterfall and Agile  
-   - B) To combine structured planning from Waterfall with Agile’s flexibility  
+   - B) To speed up development by skipping planning phases  
    - C) To eliminate testing phases in software development  
-   - D) To speed up development by skipping planning phases  
+   - D) To combine structured planning from Waterfall with Agile’s flexibility  
 
 ---
 

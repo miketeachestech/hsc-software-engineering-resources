@@ -11,7 +11,7 @@
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  
-- Correct Answer: **B) To map database tables to objects, allowing developers to interact with databases using code**  
+- Correct Answer: **A) To map database tables to objects, allowing developers to interact with databases using code**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 ---

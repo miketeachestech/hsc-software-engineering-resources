@@ -4,20 +4,20 @@
 
 **1.** *(1 mark)* What is the primary function of the **World Wide Web Consortium (W3C)**?  
    - A) Regulating internet service providers  
-   - B) Developing standards for web accessibility, security, and compatibility  
-   - C) Designing hardware for web servers  
+   - B) Designing hardware for web servers  
+   - C) Developing standards for web accessibility, security, and compatibility  
    - D) Controlling domain name registrations  
 
 **2.** *(1 mark)* Which of the following is a goal of the **Web Accessibility Initiative (WAI)**?  
    - A) Restricting certain users from web applications  
-   - B) Enhancing accessibility for people with disabilities  
+   - B) Encrypting user data 
    - C) Increasing web page loading speed  
-   - D) Encrypting user data  
+   - D) Enhancing accessibility for people with disabilities  
 
 **3.** *(1 mark)* What is the purpose of **Content Security Policy (CSP)** in web security?  
    - A) To prevent unauthorized redirections  
-   - B) To block cross-site scripting (XSS) attacks  
-   - C) To ensure responsive design  
+   - B) To ensure responsive design  
+   - C) To block cross-site scripting (XSS) attacks  
    - D) To allow all external scripts to load without restriction  
 
 ---

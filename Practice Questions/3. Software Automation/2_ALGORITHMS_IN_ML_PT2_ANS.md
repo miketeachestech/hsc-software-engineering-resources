@@ -3,11 +3,11 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) Breaking down decisions into smaller, structured steps**  
+- Correct Answer: **C) Breaking down decisions into smaller, structured steps**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) By using a network of artificial neurons that process and pass information forward**  
+- Correct Answer: **D) By using a network of artificial neurons that process and pass information forward**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  

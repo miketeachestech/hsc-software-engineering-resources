@@ -3,21 +3,21 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)* What is the primary function of **SSL/TLS certificates**?  
-   - A) Converting IP addresses into domain names  
-   - B) Encrypting data between a client and a server  
+   - A) Encrypting data between a client and a server  
+   - B) Converting IP addresses into domain names  
    - C) Speeding up web page loading times  
    - D) Storing password hashes on a server  
 
 **2.** *(1 mark)* How does **asymmetric encryption** differ from symmetric encryption?  
    - A) It uses a single key for encryption and decryption  
-   - B) It requires both public and private keys for encryption and decryption  
-   - C) It does not involve encryption keys  
+   - B) It does not involve encryption keys  
+   - C) It requires both public and private keys for encryption and decryption 
    - D) It only encrypts file names, not data  
 
 **3.** *(1 mark)* What is the purpose of a **hash function** in secure communication?  
    - A) It compresses data before transmission  
-   - B) It verifies data integrity by generating a fixed-length output  
-   - C) It encrypts user passwords for transmission  
+   - B) It encrypts user passwords for transmission  
+   - C) It verifies data integrity by generating a fixed-length output  
    - D) It speeds up internet browsing by caching web pages  
 
 ---

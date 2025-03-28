@@ -4,15 +4,15 @@
 
 **1.** *(1 mark)* What is the primary function of a **decision tree** in Machine Learning?  
    - A) Encrypting user data  
-   - B) Breaking down decisions into smaller, structured steps  
-   - C) Reducing website load times  
+   - B) Reducing website load times 
+   - C) Breaking down decisions into smaller, structured steps 
    - D) Automatically updating databases  
 
 **2.** *(1 mark)* How does a **neural network** process information?  
    - A) By storing all data in a traditional database  
-   - B) By using a network of artificial neurons that process and pass information forward  
+   - B) By replacing traditional programming with manual logic gates  
    - C) By running pre-defined if-else conditions  
-   - D) By replacing traditional programming with manual logic gates  
+   - D) By using a network of artificial neurons that process and pass information forward
 
 **3.** *(1 mark)* What is the main difference between **linear regression and logistic regression**?  
    - A) Linear regression is used for classification, while logistic regression is used for prediction  

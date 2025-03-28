@@ -4,9 +4,9 @@
 
 **1.** *(1 mark)* Which of the following is a fundamental principle of confidentiality in secure software design?  
    - A) Ensuring that data is available at all times  
-   - B) Protecting sensitive information from unauthorized access  
+   - B) Tracing user activities in a system
    - C) Preventing modification of data by unauthorized users  
-   - D) Tracing user activities in a system  
+   - D) Protecting sensitive information from unauthorized access
 
 **2.** *(1 mark)* What is the primary role of authentication in secure software?  
    - A) Controlling what actions users can perform  
@@ -16,8 +16,8 @@
 
 **3.** *(1 mark)* Which of the following best describes sandboxing?  
    - A) Encrypting user data before transmission  
-   - B) Restricting applications from accessing system resources beyond their scope  
-   - C) Detecting unauthorized access to the network  
+   - B) Detecting unauthorized access to the network
+   - C) Restricting applications from accessing system resources beyond their scope   
    - D) Storing hashed passwords for authentication  
 
 ---

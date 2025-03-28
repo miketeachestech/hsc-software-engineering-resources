@@ -3,15 +3,15 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) Developing standards for web accessibility, security, and compatibility**  
+- Correct Answer: **C) Developing standards for web accessibility, security, and compatibility**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) Enhancing accessibility for people with disabilities**  
+- Correct Answer: **D) Enhancing accessibility for people with disabilities**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  
-- Correct Answer: **B) To block cross-site scripting (XSS) attacks**  
+- Correct Answer: **C) To block cross-site scripting (XSS) attacks**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 ---

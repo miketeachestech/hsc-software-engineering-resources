@@ -4,20 +4,20 @@
 
 **1.** *(1 mark)* How does AI improve **worker safety** in hazardous environments?  
    - A) By eliminating all manual labor jobs  
-   - B) By using AI-powered robots to perform dangerous tasks  
+   - B) By replacing all human workers with AI assistants  
    - C) By increasing manual safety inspections  
-   - D) By replacing all human workers with AI assistants  
+   - D) By using AI-powered robots to perform dangerous tasks  
 
 **2.** *(1 mark)* What is one way that AI assists **people with disabilities**?  
    - A) By creating more challenging work environments  
-   - B) By providing AI-powered accessibility tools such as speech-to-text and prosthetics  
+   - B) By restricting technology access to certain users
    - C) By automating all job positions  
-   - D) By restricting technology access to certain users  
+   - D) By providing AI-powered accessibility tools such as speech-to-text and prosthetics    
 
 **3.** *(1 mark)* Why is **bias in AI and ML systems** a concern?  
    - A) Because AI always makes incorrect predictions  
-   - B) Because biased data can lead to unfair or inaccurate outcomes  
-   - C) Because AI systems do not use data for decision-making  
+   - B) Because AI systems do not use data for decision-making    
+   - C) Because biased data can lead to unfair or inaccurate outcomes
    - D) Because AI eliminates the need for human input  
 
 ---

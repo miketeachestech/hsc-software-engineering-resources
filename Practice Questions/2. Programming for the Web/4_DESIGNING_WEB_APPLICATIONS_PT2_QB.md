@@ -3,14 +3,14 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)* What is the primary function of **version control** in web development?  
-   - A) To improve website loading speeds  
-   - B) To track code changes and enable collaboration  
+   - A) To track code changes and enable collaboration  
+   - B) To improve website loading speeds  
    - C) To manage API security  
    - D) To optimize CSS styling  
 
 **2.** *(1 mark)* Which of the following is an example of a **front-end framework** used for web development?  
-   - A) Flask  
-   - B) React.js  
+   - A) React.js  
+   - B) Flask
    - C) MySQL  
    - D) Django  
 

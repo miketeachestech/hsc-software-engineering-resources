@@ -7,7 +7,7 @@
 - **1 mark** awarded for correctly selecting the answer.
 
 **2.** *(1 mark)*
-- Correct Answer: **B) By analyzing source code for vulnerabilities without executing it**
+- Correct Answer: **A) By analyzing source code for vulnerabilities without executing it**
 - **1 mark** awarded for correctly selecting the answer.
 
 **3.** *(1 mark)*

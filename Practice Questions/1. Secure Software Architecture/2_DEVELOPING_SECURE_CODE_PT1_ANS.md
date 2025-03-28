@@ -3,7 +3,7 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*
-- Correct Answer: **B) Protecting sensitive information from unauthorized access**
+- Correct Answer: **D) Protecting sensitive information from unauthorized access**
 - **1 mark** awarded for correctly selecting the answer.
 
 **2.** *(1 mark)*
@@ -11,7 +11,7 @@
 - **1 mark** awarded for correctly selecting the answer.
 
 **3.** *(1 mark)*
-- Correct Answer: **B) Restricting applications from accessing system resources beyond their scope**
+- Correct Answer: **C) Restricting applications from accessing system resources beyond their scope**
 - **1 mark** awarded for correctly selecting the answer.
 
 ---

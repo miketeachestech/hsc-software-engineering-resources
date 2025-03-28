@@ -9,8 +9,8 @@
    - D) To replace penetration testing  
 
 **2.** *(1 mark)* How does **Static Application Security Testing (SAST)** improve security?  
-   - A) By executing the application and simulating attacks  
-   - B) By analyzing source code for vulnerabilities without executing it  
+   - A) By analyzing source code for vulnerabilities without executing it  
+   - B) By executing the application and simulating attacks  
    - C) By encrypting all user data  
    - D) By preventing software crashes  
 

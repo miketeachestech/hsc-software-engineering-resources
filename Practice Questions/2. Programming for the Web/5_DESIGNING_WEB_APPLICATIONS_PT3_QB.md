@@ -15,8 +15,8 @@
    - D) It automatically compresses website files  
 
 **3.** *(1 mark)* What is the primary purpose of **Object-Relational Mapping (ORM)** in database management?  
-   - A) To manually write SQL queries  
-   - B) To map database tables to objects, allowing developers to interact with databases using code  
+   - A) To map database tables to objects, allowing developers to interact with databases using code  
+   - B) To manually write SQL queries  
    - C) To reduce website load times  
    - D) To encrypt data for secure transmission  
 

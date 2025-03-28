@@ -3,11 +3,11 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) To track code changes and enable collaboration**  
+- Correct Answer: **A) To track code changes and enable collaboration**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) React.js**  
+- Correct Answer: **A) React.js**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  

@@ -3,15 +3,15 @@
 ## **Multiple Choice Questions**
 
 **1.** *(1 mark)*  
-- Correct Answer: **B) Each phase must be completed before moving to the next**  
+- Correct Answer: **D) Each phase must be completed before moving to the next**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **2.** *(1 mark)*  
-- Correct Answer: **B) Agile delivers working software in increments rather than all at once**  
+- Correct Answer: **D) Agile delivers working software in increments rather than all at once**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 **3.** *(1 mark)*  
-- Correct Answer: **B) To combine structured planning from Waterfall with Agile’s flexibility**  
+- Correct Answer: **D) To combine structured planning from Waterfall with Agile’s flexibility**  
 - **1 mark** awarded for correctly selecting the answer.  
 
 ---
