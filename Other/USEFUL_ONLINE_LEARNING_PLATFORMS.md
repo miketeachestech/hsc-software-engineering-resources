@@ -26,6 +26,10 @@
 - HSC style practice questions made by NESA.
 - Gives you experience with the web tools that you will likely be using in your final examinations.
 
+### 7. [Wattle Education Stage 6 Software Engineering Course](https://wattleeducation.com/)
+- Covers the content in the NESA HSC Software Engineering syllabus.
+- Ask your teacher if they could enroll you/your class. 
+
 ## Focus Areas
 - **Programming:** Python, Flask
 - **Web Development:** HTML, CSS
