@@ -4,7 +4,7 @@ This repository includes revision notes and practice questions that I’ve creat
 
 For your convenience, I’ve also uploaded the relevant NESA documents related to this subject. However, keep in mind that they could be outdated. To ensure you're working with the most current information, I recommend downloading the latest versions directly from the NESA website.
 
-I also strongly suggest using the "HSC Software Engineering Familiarisation Questions" at https://fam.hsconline.nesa.nsw.edu.au/ to practice making diagrams with the NESA draw tool. Try making a class diagram, structure chart, decision tree, and data flow diagram. You will need to be quite confident and fast with this tool in your exam.
+I also strongly suggest using the "HSC Software Engineering Familiarisation Questions" at https://fam.hsconline.nesa.nsw.edu.au/ to practice making diagrams with the NESA draw tool. Try making a class diagram, structure chart, decision tree, flow chart, and data flow diagram. You will need to be quite confident and fast with this tool in your exam.
 
 Please note that I don’t recommend relying on older Software Design & Development resources to study for this subject, as the content in Software Engineering is quite different.
 
